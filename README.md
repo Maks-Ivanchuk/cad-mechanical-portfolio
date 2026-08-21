@@ -11,8 +11,10 @@ Eigene CAD-Konstruktionsprojekte mit Autodesk Fusion 360 und FDM-3D-Druck.
 | ID | Projekt | Kategorie | Status |
 |---|---|---|---|
 | MI-002 | Bit-Halter für Bosch-Schraubendreher | Werkzeug | Fertig |
+| MI-006 | Ersatzteil für Fensterheberschalter | Auto | Fertig |
 | MI-007 | Dokumentenhalter | Haushalt | Fertig |
 | MI-008 | Rollladenhalter | Haushalt | Fertig |
+| MI-009 | Boruit V3 Taschenlampe | Haushalt | Fertig |
 
 ## Schwerpunkte
 
